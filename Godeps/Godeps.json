@@ -1,0 +1,6 @@
+{
+    "ImportPath": "github.com/megamsys/onboardcloud/server",
+    "GoVersion": "go1.10",
+    "GodepVersion": "v75",
+    "Deps": []
+}
